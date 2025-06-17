@@ -31,7 +31,7 @@
         <div class="hs_btn_wrapper hidden-md">
           <ul>
             <li>
-              <router-link class="hs_btn_hover" to="/birthChart">Start Journey</router-link>
+              <router-link class="hs_btn_hover" to="/birthDataPage">Start Journey</router-link>
             </li>
           </ul>
         </div>

@@ -15,7 +15,6 @@ const routes = [
   { path: '/birthChart', name: 'birthChart', component: BirthChartPage },
   { path: '/birthDataPage', name: 'birthData', component: BirthDataPage }
 ]
-
 const router = createRouter({
   history: createWebHistory(),
   routes
