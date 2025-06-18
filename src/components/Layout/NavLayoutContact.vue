@@ -28,51 +28,7 @@
                 <button><i class="fa fa-search"></i></button>
               </div>
               <ul class="cart_login_wrapper">
-                <li class="dropdown menu-button hs_navi_cart_wrapper">
-                  <a class="menu-button" href="#"><i class="flaticon-shop"></i><span>3</span></a>
-                  <ul class="dropdown-menu">
-                    <li class="cc_cart_wrapper1">
-                      <div class="cc_cart_img_wrapper">
-                        <img src="images/content/cart_img.jpg" alt="cart_img" />
-                      </div>
-                      <div class="cc_cart_cont_wrapper">
-                        <h4><a href="#">Gemstone</a></h4>
-                        <p>Quantity : 2 × $45</p>
-                        <h5>$90</h5>
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                      </div>
-                    </li>
-                    <li class="cc_cart_wrapper1">
-                      <div class="cc_cart_img_wrapper">
-                        <img src="images/content/cart_img.jpg" alt="cart_img" />
-                      </div>
-                      <div class="cc_cart_cont_wrapper">
-                        <h4><a href="#">Gemstone</a></h4>
-                        <p>Quantity : 2 × $45</p>
-                        <h5>$90</h5>
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                      </div>
-                    </li>
-                    <li class="cc_cart_wrapper1">
-                      <div class="cc_cart_img_wrapper">
-                        <img src="images/content/cart_img.jpg" alt="cart_img" />
-                      </div>
-                      <div class="cc_cart_cont_wrapper">
-                        <h4><a href="#">Gemstone</a></h4>
-                        <p>Quantity : 2 × $45</p>
-                        <h5>$90</h5>
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                      </div>
-                    </li>
-                    <li class="cc_cart_wrapper1">
-                      <div class="hs_effect_btn ceckout_btn">
-                        <ul>
-                          <li><a href="#" class="hs_btn_hover">checkout</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                  </ul>
-                </li>
+               
                 <li class="dropdown menu-button hs_top_user_profile">
                   <a href="#">
                     <img src="images/header/top_user.png" alt="user">

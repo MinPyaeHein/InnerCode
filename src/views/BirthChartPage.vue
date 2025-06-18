@@ -5,14 +5,14 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 full_width">
           <div class="hs_indx_title_left_wrapper">
-            <h2>Aries Daily Horoscope</h2>
+            <h2>Journey Overview</h2>
           </div>
         </div>
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  full_width">
           <div class="hs_indx_title_right_wrapper">
             <ul>
-              <li><a href="#">Home</a> &nbsp;&nbsp;&nbsp;> </li>
-              <li>Aries Daily Horoscope</li>
+              <li><a href="#">Birth Data</a> &nbsp;&nbsp;&nbsp;> </li>
+              <li>Journey Overview</li>
             </ul>
           </div>
         </div>
@@ -24,9 +24,10 @@
       <div class="hs_sign_heading_wrapper">
         <div class="hs_about_heading_main_wrapper">
           <div class="hs_about_heading_wrapper">
-            <h2>Your <span>Chiron And House</span></h2>
+            <h2> <span>Chiron And House Placement</span></h2>
             <h4><span></span></h4>
-            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
+            <p>Discover where your deepest emotional wounds (Chiron) appear in your life through the lens of astrology.<br>
+              Your House placement shows which area of life these wounds affect most—offering insight into your healing journey.</p>
           </div>
         </div>
       </div>
@@ -576,44 +577,19 @@
                   </div>
                   <div class="hs_slider_tabs_icon_cont_wrapper hs_ar_tabs_heading_wrapper">
                     <ul>
-                      <li><a href="#" class="hs_tabs_btn">Aries</a></li>
+                      <li><a href="#" class="hs_tabs_btn">Chiron in Scorpio in the 4th House</a></li>
                       <li>31 March - 12 October</li>
                     </ul>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_ar_tabs_wrapper">
-                  <ul>
-                    <li><a href="#">For you</a></li>
-                    <li><a href="#">For Everyone</a></li>
-                    <li class="aries_padding_left">
-                      <select>
-                        <option>Change Zodiac Sign</option>
-                        <option>Change Zodiac Sign</option>
-                        <option>Change Zodiac Sign</option>
-                        <option>Change Zodiac Sign</option>
-                      </select>
-
-                    </li>
-                    <li class="aries_padding_left">
-                      <select>
-                        <option>Today</option>
-                        <option>Today</option>
-                        <option>Today</option>
-                        <option>Today</option>
-                      </select>
-
-                    </li>
-                  </ul>
-                </div>
-              </div>
+        
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="hs_ar_first_sec_wrapper">
                   <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                       <div class="hs_ar_first_sec_img_wrapper">
-                        <img src="images/content/kundali/aries_img.jpg" alt="arlies_img" />
+                        <img src="images/content/kundali/aries_img_2.png" alt="arlies_img" />
                       </div>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
@@ -623,13 +599,7 @@
                           position in the Chinese Zodiac. The 12 zodiac animals are, in order: Rat, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. Each year is related to a Chinesezodiac animal.</p>
                       </div>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                      <div class="hs_ar_second_sec_cont_wrapper">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                          ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint aecat cupidatat non proident, sunt in culpa qui officia
-                          deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. </p>
-                      </div>
-                    </div>
+                   
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                       <div class="hs_pr_second_cont_wrapper hs_ar_second_sec_cont_list_wrapper">
                         <ul>
@@ -638,7 +608,7 @@
                               <i class="fa fa-circle"></i>
                             </div>
                             <div class="hs_pr_icon_cont_wrapper hs_ar_icon_cont_wrapper">
-                              <p><span>Lucky Colors</span> : white, yellow, green</p>
+                              <p><span>Core Wounds & Emotional Themes</span> : Emotional Wound, Childhood Trauma, Abandonment, Betrayal, Family Pain</p>
                             </div>
                           </li>
                           <li>
@@ -646,7 +616,7 @@
                               <i class="fa fa-circle"></i>
                             </div>
                             <div class="hs_pr_icon_cont_wrapper hs_ar_icon_cont_wrapper">
-                              <p><span>Lucky Numbers</span> : 1, 4</p>
+                              <p><span>Patterns & Struggles</span> : Trust Issues, Emotional Control, Disconnection from Family, Fear of Vulnerability</p>
                             </div>
                           </li>
                           <li>
@@ -654,7 +624,7 @@
                               <i class="fa fa-circle"></i>
                             </div>
                             <div class="hs_pr_icon_cont_wrapper hs_ar_icon_cont_wrapper">
-                              <p><span>Lucky Flowers</span> : tulip, morning glory, peach blossom</p>
+                              <p><span>Healing & Transformation</span> : Emotional Resilience, Inner Foundation, Emotional Security, Home & Roots Healing</p>
                             </div>
                           </li>
                           <li>
@@ -662,70 +632,130 @@
                               <i class="fa fa-circle"></i>
                             </div>
                             <div class="hs_pr_icon_cont_wrapper hs_ar_icon_cont_wrapper">
-                              <p><span> Year of Birth </span>: 1913, 1925, 1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021</p>
+                              <p><span>Spiritual Wisdom & Gifts </span>: Emotional Depth, Healing Others, Empathy, Spiritual Insight, Supportive Presence</p>
                             </div>
                           </li>
                         </ul>
                       </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                      <div class="hs_kd_first_sec_wrapper hs_ar_third_sec_heading_wrapper">
-                        <h2>Aries Celebrities</h2>
-                        <h4><span>&nbsp;</span></h4>
+                      <div class="hs_pr_second_cont_wrapper">
+                        <h2>01.Wound Points</h2>
+                        <ul>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Deep emotional pain linked to family, home, and early childhood.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Fear of emotional abandonment or betrayal by those closest to you.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Difficulty feeling safe, supported, or emotionally secure.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Tendency to hide emotions or resist vulnerability at home.
+                            </div>
+                          </li>
+                        </ul>              
+                      </div>
+                      <div class="hs_pr_second_cont_wrapper">
+                        <h2>03. Patterns Connected to This Wound.</h2>
+                        <ul>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Struggles to trust others emotionally, especially within close relationships.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              A pattern of emotional withdrawal or intense emotional control.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Feeling like an outsider in your own family or uncomfortable in your roots.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Attracting intense, emotional family dynamics or power struggles.
+                            </div>
+                          </li>
+                        </ul>
+                        
+                      </div>
+                      <div class="hs_pr_second_cont_wrapper">
+                        <h2>04. Healing Benefits.</h2>
+                        <ul>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              You’ll develop a strong inner emotional foundation and resilience.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Learn to create emotional safety within yourself and with others.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Build healthier, deeper family or home-based relationships.
+                            </div>
+                          </li>
+                          <li>
+                            <div class="hs_pr_icon_wrapper">
+                              <i class="fa fa-circle"></i>
+                            </div>
+                            <div class="hs_pr_icon_cont_wrapper">
+                              Finally feel at peace with your past, no longer held back by childhood pain.
+                            </div>
+                          </li>
+                        </ul>
+                        
                       </div>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                      <div class="comments_Box first_comment_box">
-                        <div class="img_wrapper">
-                          <img src="images/content/kundali/comm_img1.jpg" class="" alt="author_img">
-                        </div>
-                        <div class="text_wrapper">
-                          <div class="author_detail"> 
-                            <span class="author_name"> Jhon Doe - </span>
-                            <span class="publish_date">25 August, 2018 </span>
-                          </div>
-                          <div class="author_content">
-                            <p>Integer porttitor fringilla vestibulum. Phasellus curs our tinnt nulla, ut mattis augue finibus ac. Vivamus elementum enim ac enim ultrices rhoncus. </p>
-                          </div>
-                          <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                      <div class="comments_Box">
-                        <div class="img_wrapper">
-                          <img src="images/content/kundali/comm_img2.jpg" class="" alt="author_img">
-                        </div>
-                        <div class="text_wrapper">
-                          <div class="author_detail"> 
-                            <span class="author_name"> Jhon Doe - </span>
-                            <span class="publish_date">25 August, 2018 </span>
-                          </div>
-                          <div class="author_content">
-                            <p>Integer porttitor fringilla vestibulum. Phasellus curs our tinnt nulla, ut mattis augue finibus ac. Vivamus elementum enim ac enim ultrices rhoncus. </p>
-                          </div>
-                          <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                      <div class="comments_Box last_comment_box">
-                        <div class="img_wrapper">
-                          <img src="images/content/kundali/comm_img3.jpg" class="" alt="author_img">
-                        </div>
-                        <div class="text_wrapper">
-                          <div class="author_detail"> 
-                            <span class="author_name"> Jhon Doe - </span>
-                            <span class="publish_date">25 August, 2018 </span>
-                          </div>
-                          <div class="author_content">
-                            <p>Integer porttitor fringilla vestibulum. Phasellus curs our tinnt nulla, ut mattis augue finibus ac. Vivamus elementum enim ac enim ultrices rhoncus. </p>
-                          </div>
-                          <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                      </div>
-                    </div>
+                    
                   
+               
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                       <div class="hs_kd_six_sec_btn">
                         <ul>
@@ -764,84 +794,7 @@
                     </ul>
                   </div>
                 </div>
-              </div>
-            
-        
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_kd_right_first_sec_wrapper2">
-                  <div class="hs_kd_right_first_sec_heading">
-                    <h2>Your star guide</h2>
-                  </div>
-                  <div class="hs_kd_right_accordi_sec_wrapper">
-                    <div class="accordionFifteen">
-                      <div class="panel-group" id="accordionFifteenLeft" role="tablist">
-                        <div class="panel panel-default truck_pannel">
-                          <div class="panel-heading desktop">
-                            <h4 class="panel-title">
-                              <a data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftone" aria-expanded="true"> Day Guide</a>
-                            </h4>
-                          </div>
-                          <div id="collapseFifteenLeftone" class="panel-collapse collapse in" aria-expanded="true" role="tabpanel">
-                            <div class="panel-body">
-                              <div class="panel_cont">
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- /.panel-default -->
-                        <div class="panel panel-default truck_pannel">
-                          <div class="panel-heading horn">
-                            <h4 class="panel-title">
-                              <a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftTwo" aria-expanded="false">Life Meter</a>
-                            </h4>
-                          </div>
-                          <div id="collapseFifteenLeftTwo" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;" role="tabpanel">
-                            <div class="panel-body">
-                              <div class="panel_cont">
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- /.panel-default -->
-                        <div class="panel panel-default truck_pannel">
-                          <div class="panel-heading bell">
-                            <h4 class="panel-title">
-                              <a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftThree" aria-expanded="false">Compatibility</a>
-                            </h4>
-                          </div>
-                          <div id="collapseFifteenLeftThree" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;" role="tabpanel">
-                            <div class="panel-body">
-                              <div class="panel_cont">
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <!--end of /.panel-group-->
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_kd_right_first_sec_wrapper2">
-                  <div class="hs_kd_right_first_sec_heading">
-                    <h2>Black magic</h2>
-                  </div>
-                  <div class="hs_kd_right_first_sec_img_heading">
-                    <img src="images/content/kundali/patrika4.jpg" alt="patrika" />
-                  </div>
-                  <div class="hs_kd_right_first_sec_img_price_heading">
-                    <ul>
-                      <li>Kundli Patrika</li>
-                      <li>$26</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+              </div>        
             </div>
           </div>
         </div>
