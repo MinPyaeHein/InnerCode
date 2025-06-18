@@ -34,7 +34,7 @@
       <div class="hs_sign_center_wrapper visible-xs visible-sm">
         <div class="hs_cycle_main_wrapper">
           <div class="hs_cycle_img">
-            <img src="images/content/cycle.jpg" alt="circle_img">
+            <img src="images/content/cycle_3.png" alt="circle_img">
             <span class="pulse"></span>
             <div class="hs_tab_shap1">
               <a href="#">
@@ -345,7 +345,7 @@
       <div class="hs_sign_center_wrapper hidden-sm hidden-xs">
         <div class="hs_cycle_main_wrapper">
           <div class="hs_cycle_img">
-            <img src="images/content/cycle.jpg" alt="circle_img">
+            <!-- <img src="images/content/cycle_3.png" alt="circle_img"> -->
             <span class="pulse"></span>
             <div class="hs_tab_shap1">
               <a href="#">
@@ -775,22 +775,21 @@
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="hs_kd_right_first_sec_wrapper">
                   <div class="hs_kd_right_first_sec_heading">
-                    <h2>Zodiac Sign</h2>
+                    <h2>Healing Journey</h2>
                   </div>
                   <div class="hs_blog_right_cate_list_cont_wrapper">
                     <ul>
-                      <li><a href="aries.html">Aries</a></li>
-                      <li><a href="#">Taurus</a></li>
-                      <li><a href="#">Gemini</a></li>
-                      <li><a href="#">Cancer</a></li>
-                      <li><a href="#">leo</a></li>
-                      <li><a href="#">Virgo</a></li>
-                      <li><a href="#">Libra</a></li>
-                      <li><a href="#">Scorpio</a></li>
-                      <li><a href="#">Sagittairus</a></li>
-                      <li><a href="#">Capricorn</a></li>
-                      <li><a href="#">Aquarius</a></li>
-                      <li><a href="#">Pisces</a></li>
+                      <li><a href="#">Day 1: Meeting the Inner Child</a></li>
+                      <li><a href="#">Day 2: Emotional Permission</a></li>
+                      <li><a href="#">Day 3: The Armor of Anger</a></li>
+                      <li><a href="#">Day 4: Seeking Approval</a></li>
+                      <li><a href="#">Day 5: The Fear of Exposure</a></li>
+                      <li><a href="#">Day 6: Trusting My Inner World</a></li>
+                      <li><a href="#">Day 7: The Wound as a Guide</a></li>
+                      <li><a href="#">Day 8: Building My Own Safety</a></li>
+                      <li><a href="#">Day 9: Releasing the Past</a></li>
+                      <li><a href="#">Day 10: Transforming Isolation</a></li>
+                      <li><a href="#">Final Thought</a></li>
                     </ul>
                   </div>
                 </div>
