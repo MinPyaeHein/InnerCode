@@ -759,7 +759,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                       <div class="hs_kd_six_sec_btn">
                         <ul>
-                          <li><a href="#">submit</a></li>
+                          <li><a href="#">Start My Journey</a></li>
                         </ul>
                       </div>
                     </div>
