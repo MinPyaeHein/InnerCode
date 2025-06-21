@@ -143,7 +143,6 @@
                 </div>
                 <div class="hs_effect_btn">
                   <ul>
-                    
                     <li data-animation="animated flipInX"> <router-link class="hs_btn_hover" to="/birthChart">See Birth Chart</router-link></li>
                   </ul>
                 </div>
