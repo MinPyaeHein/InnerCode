@@ -5,22 +5,20 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 full_width">
           <div class="hs_indx_title_left_wrapper">
-            <h2>Blog Categories</h2>
+            <h2>Family and Relationships – Inner Child Healing</h2>
           </div>
         </div>
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  full_width">
           <div class="hs_indx_title_right_wrapper">
             <ul>
-              <li><a href="#">Home</a> &nbsp;&nbsp;&nbsp;> </li>
-              <li>Blog Categories</li>
+              <li><a href="#">Reflective Question</a> &nbsp;&nbsp;&nbsp;> </li>
+              <li>Healing Journey Detail</li>
             </ul>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- hs About Title End -->
-  <!-- hs sidebar Start -->
   <div class="hs_blog_categories_main_wrapper">
     <div class="container">
       <div class="row">
@@ -30,7 +28,33 @@
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="hs_blog_box1_main_wrapper">
                   <div class="hs_blog_box1_img_wrapper">
-                    <img src="images/content/blog/bc1.jpg" alt="blog_img">
+                    <img src="images/content/blog/family_bc1.png" alt="blog_img">
+                    <ul>
+                      <li>29 Jul, 2020</li>
+                    </ul>
+                  </div>
+                  <div class="hs_blog_box1_cont_main_wrapper">
+                    <div class="hs_lest_news_meta_wrapper">
+                      <ul>
+                        <li>
+                          <a href="#">By - Thazin Aung</a>
+                        </li>
+                        
+                      </ul>
+                    </div>
+                    <div class="hs_blog_cont_heading_wrapper">
+                      <h2>Family and Relationships through Inner Child Connection and emotional release</h2>
+                      <h4><span>&nbsp;</span></h4>
+                      <p>This guided meditation gently leads you into a safe, nurturing space where you can reconnect with your inner child—the part of you that still carries old emotions, unmet needs, and memories from past relationships. By acknowledging and embracing this part of yourself, you begin to heal the emotional wounds that often affect your connections with family and loved ones.</p>
+                      <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="hs_blog_box1_main_wrapper hs_blog_box2_main_wrapper">
+                  <div class="hs_blog_box1_img_wrapper">
+                    <iframe src="https://www.youtube.com/embed/uTN29kj7e-w?si=6SRsb7FLkVTDnvNR"></iframe>
                     <ul>
                       <li>29 Jul, 2020</li>
                     </ul>
@@ -47,109 +71,27 @@
                       </ul>
                     </div>
                     <div class="hs_blog_cont_heading_wrapper">
-                      <h2>Rahu Enters Cancer and Ketu Enters Capricorn.</h2>
+                      <h2>Rules and Guidelines Before You Meditate</h2>
                       <h4><span>&nbsp;</span></h4>
-                      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit sequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet the
-                        mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+                      <p>Find a Quiet Space
+                        Choose a place where you won’t be disturbed—peaceful, clean, and free from distractions.
+
+                        Silence Your Phone and Devices
+                        Turn off notifications and sounds to fully focus inward.
+
+                        Sit or Lie Down Comfortably
+                        Use a cushion, chair, or yoga mat—whatever allows your body to relax without tension.
+
+                        Wear Comfortable Clothing
+                        Avoid tight or restrictive clothes; choose something soft and breathable.
+
+                        Avoid Heavy Meals</p>
                       <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_blog_box1_main_wrapper hs_blog_box2_main_wrapper">
-                  <div class="hs_blog_box1_img_wrapper">
-                    <div class="owl-carousel owl-theme">
-                      <div class="item">
-                        <img src="images/content/blog/bc2.jpg" alt="blog_img">
-                      </div>
-                      <div class="item">
-                        <img src="images/content/blog/bc3.jpg" alt="blog_img">
-                      </div>
-                      <div class="item">
-                        <img src="images/content/blog/bc1.jpg" alt="blog_img">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="hs_blog_box1_cont_main_wrapper">
-                    <div class="hs_lest_news_meta_wrapper">
-                      <ul>
-                        <li>
-                          <a href="#">By - Admin</a>
-                        </li>
-                        <li>
-                          <a href="#">256 Comments</a>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="hs_blog_cont_heading_wrapper">
-                      <h2>Rahu Enters Cancer and Ketu Enters Capricorn.</h2>
-                      <h4><span>&nbsp;</span></h4>
-                      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit sequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet the
-                        mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
-                      <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_blog_box1_main_wrapper hs_blog_box2_main_wrapper">
-                  <div class="hs_blog_box1_img_wrapper">
-                    <iframe src="https://www.youtube.com/embed/tqYDVMTjAzY"></iframe>
-                    <ul>
-                      <li>29 Jul, 2020</li>
-                    </ul>
-                  </div>
-                  <div class="hs_blog_box1_cont_main_wrapper">
-                    <div class="hs_lest_news_meta_wrapper">
-                      <ul>
-                        <li>
-                          <a href="#">By - Admin</a>
-                        </li>
-                        <li>
-                          <a href="#">256 Comments</a>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="hs_blog_cont_heading_wrapper">
-                      <h2>Rahu Enters Cancer and Ketu Enters Capricorn.</h2>
-                      <h4><span>&nbsp;</span></h4>
-                      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit sequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet the
-                        mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
-                      <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_blog_box1_main_wrapper hs_blog_box2_main_wrapper">
-                  <div class="hs_blog_box1_img_wrapper">
-                    <img src="images/content/blog/bc3.jpg" alt="blog_img">
-                    <ul>
-                      <li>29 Jul, 2020</li>
-                    </ul>
-                  </div>
-                  <div class="hs_blog_box1_cont_main_wrapper">
-                    <div class="hs_lest_news_meta_wrapper">
-                      <ul>
-                        <li>
-                          <a href="#">By - Admin</a>
-                        </li>
-                        <li>
-                          <a href="#">256 Comments</a>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="hs_blog_cont_heading_wrapper">
-                      <h2>Rahu Enters Cancer and Ketu Enters Capricorn.</h2>
-                      <h4><span>&nbsp;</span></h4>
-                      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit sequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet the
-                        mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
-                      <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
+             
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 visible-lg visible-md">
                 <div class="pager_wrapper">
                   <ul class="pagination">
@@ -176,101 +118,27 @@
               </div>
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="hs_blog_right_cate_list_heading_wrapper hs_vs_list_wrapper">
-                  <h2>Blog Categories</h2>
+                  <h2>Healing Journey</h2>
                 </div>
                 <div class="hs_blog_right_cate_list_cont_wrapper">
                   <ul>
-                    <li><a href="#">Horoscope News</a></li>
-                    <li><a href="#">Astrology News</a></li>
-                    <li><a href="#">Events</a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Blog News</a></li>
-                    <li><a href="#">Puja Accessories</a></li>
-                    <li><a href="#">Religion Spiritual</a></li>
-                    <li><a href="#">Feng Shui Products</a></li>
-                    <li><a href="#">Lucky Stones</a></li>
+                    <li><a href="#">Day 1: Meeting the Inner Child</a></li>
+                    <li><a href="#">Day 2: Emotional Permission</a></li>
+                    <li><a href="#">Day 3: The Armor of Anger</a></li>
+                    <li><a href="#">Day 4: Seeking Approval</a></li>
+                    <li><a href="#">Day 5: The Fear of Exposure</a></li>
+                    <li><a href="#">Day 6: Trusting My Inner World</a></li>
+                    <li><a href="#">Day 7: The Wound as a Guide</a></li>
+                    <li><a href="#">Day 8: Building My Own Safety</a></li>
+                    <li><a href="#">Day 9: Releasing the Past</a></li>
+                    <li><a href="#">Day 10: Transforming Isolation</a></li>
+                    <li><a href="#">Final Thought</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_kd_right_first_sec_wrapper hs_vs_list_wrapper">
-                  <div class="hs_blog_right_cate_list_heading_wrapper">
-                    <h2>Recent News</h2>
-                  </div>
-                  <div class="hs_blog_right_recnt_cont_wrapper">
-                    <div class="hs_footer_ln_img_wrapper">
-                      <img src="images/content/blog/b1.jpg" class="img-responsive" alt="ln_img" />
-                    </div>
-                    <div class="hs_footer_ln_cont_wrapper">
-                      <h4>Astrolger Member in the life soltion.</h4>
-                      <p>12 May 2018</p>
-                    </div>
-                  </div>
-                  <div class="hs_blog_right_recnt_cont_wrapper">
-                    <div class="hs_footer_ln_img_wrapper">
-                      <img src="images/content/blog/b2.jpg" class="img-responsive" alt="ln_img" />
-                    </div>
-                    <div class="hs_footer_ln_cont_wrapper">
-                      <h4>Astrolger Member in the life soltion.</h4>
-                      <p>12 May 2018</p>
-                    </div>
-                  </div>
-                  <div class="hs_blog_right_recnt_cont_wrapper">
-                    <div class="hs_footer_ln_img_wrapper">
-                      <img src="images/content/blog/b3.jpg" class="img-responsive" alt="ln_img" />
-                    </div>
-                    <div class="hs_footer_ln_cont_wrapper">
-                      <h4>Astrolger Member in the life soltion.</h4>
-                      <p>12 May 2018</p>
-                    </div>
-                  </div>
-                  <div class="hs_blog_right_recnt_cont_wrapper last">
-                    <div class="hs_footer_ln_img_wrapper">
-                      <img src="images/content/blog/b4.jpg" class="img-responsive" alt="ln_img" />
-                    </div>
-                    <div class="hs_footer_ln_cont_wrapper">
-                      <h4>Astrolger Member in the life soltion.</h4>
-                      <p>12 May 2018</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_blog_right_cate_list_heading_wrapper hs_vs_list_wrapper">
-                  <h2>Archives</h2>
-                </div>
-                <div class="hs_blog_right_cate_list_cont_wrapper">
-                  <ul>
-                    <li><a href="#">May 2017</a></li>
-                    <li><a href="#">June 2017</a></li>
-                    <li><a href="#">July 2017</a></li>
-                    <li><a href="#">Augast 2017</a></li>
-                    <li><a href="#">September 2017</a></li>
-                    <li><a href="#">October 2017</a></li>
-                    <li><a href="#">November 2017</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="hs_kd_right_first_sec_wrapper hs_vs_list_wrapper">
-                  <div class="hs_blog_right_cate_list_heading_wrapper">
-                    <h2>Instagram</h2>
-                  </div>
-                  <div class="hs_blog_right_insta_img_wrapper">
-                    <ul>
-                      <li><a href="#"><img src="images/content/blog/inta1.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta2.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta3.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta4.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta5.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta6.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta7.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta8.jpg" alt="blog_img"/></a></li>
-                      <li><a href="#"><img src="images/content/blog/inta9.jpg" alt="blog_img"/></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+            
+            
+             
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 visible-sm visible-xs">
                 <div class="pager_wrapper">
                   <ul class="pagination">

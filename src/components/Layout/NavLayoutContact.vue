@@ -3,23 +3,7 @@
     <div class="hs_navigation_header_wrapper">
       <div class="">
         <div class="row">
-          <div class="col-lg-6 col-md-5 col-sm-5 col-xs-5">
-            <div class="hs_header_add_wrapper border_icon hidden-sm hidden-xs">
-              <div class="hs_header_add_icon">
-                <i class="fa fa-home"></i>
-              </div>
-              <div class="hs_header_add_icon_cont">
-                <p>601 , TaungGyi Mynamar</p>
-              </div>
-            </div>
-            <div class="hs_header_add_wrapper">
-              <div class="hs_header_add_icon last">
-                <i class="fa fa-phone"></i>
-              </div>
-              <div class="hs_header_add_icon_cont">
-                <p>+0924662568</p>
-              </div>
-            </div>
+          <div class="col-lg-6 col-md-5 col-sm-5 col-xs-5">          
           </div>
           <div class="col-lg-6 col-md-7 col-sm-7 col-xs-7">
             <div class="hs_top_right_wrapper">

@@ -4,7 +4,7 @@
     <div class="hs_top_header_main_Wrapper">
       <div class="hs_header_logo_left">
         <div class="hs_logo_wrapper">
-          <!-- <a href="index.html"><img src="images/header/logo.png" class="img-responsive" alt="logo" title="Logo"/></a> -->
+          <a href="index.html"><img src="images/header/inner_code_nav_logo.png" class="img-responsive" alt="logo" title="Logo"/></a>
         </div>
       </div>
       <div class="hs_header_logo_right">

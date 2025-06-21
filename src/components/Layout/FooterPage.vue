@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
             <div class="hs_footer_logo_wrapper">
-              <!-- <img src="images/content/footer_logo.png" alt="footer_logo" class="img-responsive" /> -->
+              <img src="images/content/footer_logo.png" alt="footer_logo" class="img-responsive" />
               <h3>+1800-123-123</h3>
               <p>We are a spiritual healing platform that blends astrology, mindfulness, and AI to guide individuals on a personalized journey of self-discovery and emotional growth.</p>
               <h4><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>

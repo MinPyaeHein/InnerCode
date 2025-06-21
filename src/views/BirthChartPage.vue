@@ -34,7 +34,7 @@
       <div class="hs_sign_center_wrapper visible-xs visible-sm">
         <div class="hs_cycle_main_wrapper">
           <div class="hs_cycle_img">
-            <img src="images/content/cycle_3.png" alt="circle_img">
+            <img src="images/content/cycle_logo_5.png" alt="circle_img">
             <span class="pulse"></span>
             <div class="hs_tab_shap1">
               <a href="#">
@@ -345,7 +345,7 @@
       <div class="hs_sign_center_wrapper hidden-sm hidden-xs">
         <div class="hs_cycle_main_wrapper">
           <div class="hs_cycle_img">
-            <!-- <img src="images/content/cycle_3.png" alt="circle_img"> -->
+            <img src="images/content/cycle_logo_5.png" alt="circle_img">
             <span class="pulse"></span>
             <div class="hs_tab_shap1">
               <a href="#">
